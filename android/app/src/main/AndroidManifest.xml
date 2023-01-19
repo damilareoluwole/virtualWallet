@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.pay_with_transfer">
    <application
-        android:label="pay_with_transfer"
+        android:label="bank3D"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
